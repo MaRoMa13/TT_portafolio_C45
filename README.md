@@ -1,7 +1,8 @@
 # TT_portafolio_C45
 Portafolio que contiene los distintos proyectos realizados en el Bootcamp de Triple Ten LATAM
 ## Sprint 1: Python Basico
-
+Aprendimo slo sfundamentos de Python tales como:
+Tipos de datos, listas, listas anidadas
 ## Sprint 2: Python Basico 2
 
 ## Sprint 3: Data Wraling 
